@@ -1,8 +1,8 @@
 package task_3;
 
 public class Pair {
-    String word;
-    int vowels;
+    public String word;
+    public int vowels;
     
     public Pair(String word, int vowels)
     {
